@@ -1,0 +1,26 @@
+.dayStyle {
+    display: flex;
+    flex-direction: column;
+    padding-left: 7rem;
+    img {
+        width: 6rem;
+    }
+}
+
+.css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root.Mui-selected {
+    color: #1976d2;
+    font-weight: bold;
+}
+.css-16lloyr-MuiBottomNavigation-root {
+    display: flex;
+    flex-direction: column;
+    height: 300px !important;
+}
+.MuiDataGrid-overlayWrapper {
+    display: none;
+}
+
+.MuiPaper-elevation  {
+    display:flex;
+    width: auto !important;
+}

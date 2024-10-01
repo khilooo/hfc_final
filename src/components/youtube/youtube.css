@@ -1,0 +1,19 @@
+.titleSearch {
+    font-style: italic;
+}
+.searchBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.textBoxSearch {
+    flex-basis: 50%;
+    margin-right: 10px !important;
+}
+
+.listStyle {
+    color: blue; /* Change the color to blue */
+    text-decoration: underline; /* Add underline */
+    cursor: pointer; /
+}
